@@ -1,9 +1,5 @@
 # Estimation Error in Portfolio Optimisation
 
-**Author:** Ben Heskin  
-**Research question:** Do shrinkage, tail-risk optimisation and Wasserstein distributional robustness improve portfolio decisions out of sample relative to classical Markowitz optimisation and a naive 1/N benchmark?
-
-This repository contains the data snapshot, Python package, tests, walk-forward backtest, statistical inference, figures, output tables and empirical report.
 
 ## Headline result
 
