@@ -1,0 +1,9 @@
+                         Annualized Return  Annualized Volatility  Zero-Rate Sharpe  Sortino  Maximum Drawdown  95% CVaR Loss  Average Monthly Turnover  Annualized Cost Drag  Average Effective N  Average Maximum Weight  Terminal Wealth
+Strategy                                                                                                                                                                                                                                   
+Equal Weight                        0.1143                 0.1562            0.7735   1.1402           -0.2322         0.0929                    0.0130                0.0002              12.0000                  0.0833           3.2016
+Sample MVO                          0.0763                 0.1651            0.5275   0.8156           -0.2962         0.0918                    0.2195                0.0026               3.4515                  0.3438           2.2052
+Shrinkage MVO                       0.0811                 0.1232            0.6968   0.9426           -0.1930         0.0769                    0.0493                0.0006               4.0459                  0.3440           2.3133
+Historical Mean-CVaR                0.0949                 0.1324            0.7534   1.1311           -0.2114         0.0774                    0.0957                0.0011               3.5502                  0.3497           2.6506
+Wasserstein Robust CVaR             0.0993                 0.1363            0.7657   1.0703           -0.2329         0.0834                    0.1019                0.0012               4.7807                  0.2444           2.7682
+
+Wrote results to /mnt/data/robust_portfolio_project/results
